@@ -1,0 +1,47 @@
+logs
+project/project
+project/target
+target
+tmp
+.history
+dist
+.idea
+/*.iml
+/out
+/.idea_modules
+/.classpath
+/.project
+/RUNNING_PID
+/.settings
+node_modules
+builds/
+
+public/javascripts/bundle.js
+
+~$*.docx
+
+# xcode noise
+*.mode1v3
+*.pbxuser
+*.perspective
+*.perspectivev3
+*.pyc
+*~.nib/
+xcuserdata/
+xcuserdata/*
+*.xcuserdatad/
+
+*.app.dSYM.zip
+*.ipa
+fastlane/README.md
+fastlane/report.xml
+# old skool
+.svn
+
+# osx noise
+.DS_Store
+profile
+
+.build/
+.builds/
+lambda.zip
